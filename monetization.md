@@ -34,5 +34,5 @@ property rights, which can simply be enforced by design in the underlying
 
 OTIP aims to be more efficient in solving infrastructure issues than todays
 existing solutions. The return of investment can be given by more efficiency of
-infrastructure maintenance or even new [business models](business_models.md)
+infrastructure maintenance or even new [business models](business_model.md)
 waiting to be discovered and leveraged.

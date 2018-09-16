@@ -1,4 +1,4 @@
-# Business Models
+# Business Model
 
 OTIP could kickoff new business models helping to increase the return of
 investment of the project as such.
